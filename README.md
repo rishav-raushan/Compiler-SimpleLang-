@@ -93,7 +93,7 @@ endif:
 1. **Clone this repository:**
    ```sh
    git clone https://github.com/rishav-raushan/Compiler-SimpleLang-
-   cd simplelang-compiler
+   cd Compiler-SimpleLang-
    ```
 2. **Compile the compiler:**
    ```sh
